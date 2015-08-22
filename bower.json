@@ -1,0 +1,19 @@
+{
+  "name": "reactapp",
+  "version": "0.0.0",
+  "authors": [
+    "Rubel hasan <rubeldhkbd@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "jsx-requirejs-plugin": "~0.6.2"
+  }
+}
