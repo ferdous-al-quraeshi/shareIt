@@ -10,7 +10,7 @@ var CommentBox=React.createClass({
 
 })
 
-var people=[{name:'Rubel hasan',age:'30'},{name:'Shwon hasan',age:'20'}]
+var people=[{name:'Rubel hasan',age:'30'},{name:'Papon hasan',age:'20'}]
 var Mycomment=React.createClass({
 	getInitialState:function(){
 		return {
